@@ -1,0 +1,5 @@
+pe\edu\vallegrande\dao\ICRUD.class
+pe\edu\vallegrande\model\File.class
+pe\edu\vallegrande\controllers\FileC.class
+pe\edu\vallegrande\dao\Conexion.class
+pe\edu\vallegrande\dao\FileImpl.class
